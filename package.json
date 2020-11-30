@@ -1,0 +1,22 @@
+{
+  "name": "polo",
+  "version": "0.1.0",
+  "description": "Skira coding test backend boiler plate",
+  "main": "index.js",
+  "scripts": {
+    "test": "N/A"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plantaseed/poloV2.git"
+  },
+  "author": "Skira AB",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/plantaseed/poloV2/issues"
+  },
+  "homepage": "https://github.com/plantaseed/poloV2#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
